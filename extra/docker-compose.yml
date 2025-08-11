@@ -11,7 +11,7 @@ services:
             - "9968:9968"
         environment:
             # Required
-            - BOT_TOKEN=xxxx:xxxxx # Bot Token
+            - BOT_TOKEN=8377729439:AAH8I7GF6s7IDWxh8t9V88qiUgltZOtcubk # Bot Token
             - LANG=zh_CN # Set language (Match with the language folder in the `locale` directory), default to Chinese
             
             # Optional (do not change if you dont' understand)
